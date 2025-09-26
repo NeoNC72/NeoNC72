@@ -5,7 +5,7 @@
 - Hello there
 
 ## Discord
-NeoN#3200 [website]
+neonc72
 
 
 
@@ -23,4 +23,3 @@ NeoN#3200 [website]
 
 </details>
 
-[website]: https://discord.gg/bH6kA5YAVT
